@@ -1,6 +1,6 @@
-* redo annotations. tweet 6 onwards
-* exercise 2 - additioanl categories
-* something on reflection on waht was seen.
+* addd a note on timing 
+* split into two files
+** would you add extra codes, etc. 
 * NLP
 * profiling
 * adding some exercises
@@ -23,3 +23,5 @@
 * section 4 reads in file..
 * figure out why we don't necessarily get tweets in the same order when reading them in.  - revise approach to getting first. 100
   - get keys, sort by id, and then take first 100.
+  * redo annotations. tweet 6 onwards
+* exercise 3 - additional queries (revising save)
