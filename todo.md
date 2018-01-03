@@ -1,10 +1,10 @@
 
-** remove end from part 1
-** remove beginning from part 2 (but add in read/save Tweets)
-**figure out how to link between them
+** check in.
+
 ** add exercises to part 1.
 
-* would you add extra codes, etc. 
+
+* exercise  - would you add extra codes, etc. 
 * NLP
 * profiling
 * adding some exercises
@@ -31,3 +31,9 @@
 * exercise 3 - additional queries (revising save)
 * split into two files
 ** create an overview with key elements
+** remove end from part 1
+** remove beginning from part 2 (but add in read/save Tweets)
+** add intro to part 2
+** add links at end of part 1 to part 2
+** add links at beginning of part 2 to part 1
+** figure out how to link between them
