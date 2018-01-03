@@ -1,6 +1,10 @@
-* addd a note on timing 
-* split into two files
-** would you add extra codes, etc. 
+
+** remove end from part 1
+** remove beginning from part 2 (but add in read/save Tweets)
+**figure out how to link between them
+** add exercises to part 1.
+
+* would you add extra codes, etc. 
 * NLP
 * profiling
 * adding some exercises
@@ -25,3 +29,5 @@
   - get keys, sort by id, and then take first 100.
   * redo annotations. tweet 6 onwards
 * exercise 3 - additional queries (revising save)
+* split into two files
+** create an overview with key elements
