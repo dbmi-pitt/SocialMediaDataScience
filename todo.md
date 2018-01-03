@@ -1,10 +1,9 @@
 
-** check in.
 
 ** add exercises to part 1.
+* add horizontal rules around eercises.
 
-
-* exercise  - would you add extra codes, etc. 
+* exercise in part 2  - would you add extra codes, etc. 
 * NLP
 * profiling
 * adding some exercises
@@ -37,3 +36,4 @@
 ** add links at end of part 1 to part 2
 ** add links at beginning of part 2 to part 1
 ** figure out how to link between them
+** check in.
