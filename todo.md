@@ -1,5 +1,7 @@
-
-
+* commit tag as pre-OO, push
+* rework 1-3 to use object-oriented programming
+* rework to reduce manual annotation example
+* rework to avoid imbalanced number of threads saved
 * NER
 * profiling terms in smoking or non-smoking related
 * NLP
