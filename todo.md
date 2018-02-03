@@ -1,11 +1,8 @@
 
 
-** add exercises to part 1.
-* add horizontal rules around eercises.
-
-* exercise in part 2  - would you add extra codes, etc. 
+* NER
+* profiling terms in smoking or non-smoking related
 * NLP
-* profiling
 * adding some exercises
 * machine learning 
 * more exercises
@@ -13,7 +10,7 @@
 * fill out list of modules, etc. in references
 * review jupyter on github
 ** https://help.github.com/articles/working-with-jupyter-notebook-files-on-github/ 
-**
+** look at   https://github.com/jakelever/kindred
 
 
 ---
@@ -34,6 +31,34 @@
 ** remove beginning from part 2 (but add in read/save Tweets)
 ** add intro to part 2
 ** add links at end of part 1 to part 2
-** add links at beginning of part 2 to part 1
+** add links at beginning of part 2 to part 1xt
 ** figure out how to link between them
 ** check in.
+* add horizontal rules around eercises.
+* redo exercise 1 to be something other than author diversity.
+    * date time  - oldest and newest tweets in list
+    * prin t out 
+    * length between them. 
+* finish exercise 2.2
+* can I run spacy pieces separately? yes
+* can I do vape vs. non-vape yes
+* exercise 2.3
+* change language to talk about retweeets vs tweets as characterization (or whatever else I decide) (vaping or non-vaping)
+
+* tokenizing
+    links to basic stuff 
+    load in
+    run basic.
+    look at tokens
+     filter base on stop, lemma
+       alpha?
+       work on others
+       exercise - revise filters
+       
+       * bring in pos at the start. 
+* what's with the tag as well as the pos?  - add in examplesxt
+* dsicuss after examples. 
+
+* find saved tweets for tokenizer 
+* exercise 3.1
+* look at saved tweet - extending tokenizer.
