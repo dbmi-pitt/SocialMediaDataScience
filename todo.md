@@ -1,4 +1,4 @@
-* commit tag as pre-OO, push
+
 * rework 1-3 to use object-oriented programming
 * rework to reduce manual annotation example
 * rework to avoid imbalanced number of threads saved
@@ -64,3 +64,4 @@
 * find saved tweets for tokenizer 
 * exercise 3.1
 * look at saved tweet - extending tokenizer.
+* commit tag as pre-OO, push
