@@ -1,6 +1,6 @@
 
 * rework 1-3 to use object-oriented programming and latest version of tweets object
-    new tweet object into part 2
+    new tweet object into part 2 - ensure it works. 
     run through...
     new tweet set for vaping 2.3, 2.2, exercie
     
@@ -9,7 +9,7 @@
         revise profile exercise
     part 3 - 
 
-* rework to avoid imbalanced number of threads saved
+- clean out old files ...
 * NER
 * profiling terms in smoking or non-smoking related
 * NLP
