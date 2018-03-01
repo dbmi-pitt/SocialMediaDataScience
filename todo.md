@@ -1,6 +1,14 @@
 
-* rework 1-3 to use object-oriented programming
-* rework to reduce manual annotation example
+* rework 1-3 to use object-oriented programming and latest version of tweets object
+    new tweet object into part 2
+    run through...
+    new tweet set for vaping 2.3, 2.2, exercie
+    
+    annotate and save
+    reflect on saving in json vs. database
+        revise profile exercise
+    part 3 - 
+
 * rework to avoid imbalanced number of threads saved
 * NER
 * profiling terms in smoking or non-smoking related
@@ -13,8 +21,6 @@
 * review jupyter on github
 ** https://help.github.com/articles/working-with-jupyter-notebook-files-on-github/ 
 ** look at   https://github.com/jakelever/kindred
-
-
 ---
 # DONE
 * Verify saved data
@@ -65,3 +71,17 @@
 * exercise 3.1
 * look at saved tweet - extending tokenizer.
 * commit tag as pre-OO, push
+* rework 1-3 to use object-oriented programming
+    *part 1 from dataset diversity onwards.
+    
+       1. add something to save curent tweets. and reload, with annotaions', and notes about this
+        2. exercise 2.1 - write something like the getCodes routine.
+            hmm. something is not right. single character codes . what is up?
+     
+ 
+* part 1 - move search into tweets object. see how it goes. revise as appropriate
+* fix comparison and save/load
+* treat tweet ids as srings
+* move stuff about uniques
+
+* remove unneeded files
