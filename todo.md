@@ -1,24 +1,16 @@
 
-* rework 1-3 to use object-oriented programming and latest version of tweets object
-    new tweet object into part 2 - ensure it works. 
-    run through...
-    new tweet set for vaping 2.3, 2.2, exercie
+new tweet set for vaping  - and save
     
-    annotate and save
-    reflect on saving in json vs. database
-        revise profile exercise
-    part 3 - 
-
-- clean out old files ...
-* NER
-* profiling terms in smoking or non-smoking related
-* NLP
-* adding some exercises
-* machine learning 
-* more exercises
-* more readme
-* fill out list of modules, etc. in references
-* review jupyter on github
+*part 3
+** NER
+** profiling terms in smoking or non-smoking related
+** NLP
+** adding some exercises
+** machine learning 
+** more exercises
+** more readme
+** fill out list of modules, etc. in references
+** review jupyter on github
 ** https://help.github.com/articles/working-with-jupyter-notebook-files-on-github/ 
 ** look at   https://github.com/jakelever/kindred
 ---
@@ -85,3 +77,19 @@
 * move stuff about uniques
 
 * remove unneeded files
+* make sure that i save time when I create a corpus*
+check stuff about retweeted_status_ to ensure that I am interpreting it correctly.
+* save a 'backup corpus' in  for use in part 2 - use only that one, not whatever I temporarily save in part 1. 
+    run through part 1
+    check the date/time
+    grab a set
+    save them as tweets.json as per code
+    copy to tweets-smoking.json 
+    
+    
+- clean out old files ...
+       revise profile exercise
+
+* exercise 2.4 onwards
+    reflect on saving in json vs. database
+
