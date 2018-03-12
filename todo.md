@@ -1,7 +1,10 @@
 
 new tweet set for vaping  - and save
+  - add this to end of part 2
     
-*part 3
+* part 3
+** revise startup code with read in
+** add full tweet clas
 ** NER
 ** profiling terms in smoking or non-smoking related
 ** NLP
