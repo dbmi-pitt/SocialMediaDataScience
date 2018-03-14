@@ -1,8 +1,15 @@
-* check in
-* tag - before-per-tweet-term 
-* revise tweets to hold term on a per-tweet basis. 
-* part1
-* part 2
+*check in and move
+*search mode extended - search_tweets = api.search('trump',count=1,tweet_mode='extended') - 
+  for tweet in tweepy.Cursor(api.home_timeline,tweet_mode='extended').items(10):
+  look at full_text instead.
+  and then full_text of retweeted_status to get untruncated.
+**    part 1
+**    part 2
+**    part 
+* revise tweets to hold search term term on a per-tweet basis. 
+** part 2
+*** redo annotations
+** part 3
 * part 3
 ** revise startup code with read in
 ** add full tweet clas
@@ -99,4 +106,11 @@ check stuff about retweeted_status_ to ensure that I am interpreting it correctl
 
 new tweet set for vaping  - and save
   - add this to end of part 2
-
+* check in
+* tag - before-per-tweet-term 
+* revise tweets to hold term on a per-tweet basis. 
+** part1 DONE 
+*** test basic DONE
+*** get rid of self.contents DONE
+*** test again DONE 
+*** review/revise explanatory text
