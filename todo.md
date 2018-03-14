@@ -1,7 +1,8 @@
-
-new tweet set for vaping  - and save
-  - add this to end of part 2
-    
+* check in
+* tag - before-per-tweet-term 
+* revise tweets to hold term on a per-tweet basis. 
+* part1
+* part 2
 * part 3
 ** revise startup code with read in
 ** add full tweet clas
@@ -95,4 +96,7 @@ check stuff about retweeted_status_ to ensure that I am interpreting it correctl
 
 * exercise 2.4 onwards
     reflect on saving in json vs. database
+
+new tweet set for vaping  - and save
+  - add this to end of part 2
 
