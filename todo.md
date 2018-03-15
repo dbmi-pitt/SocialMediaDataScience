@@ -3,11 +3,11 @@
   for tweet in tweepy.Cursor(api.home_timeline,tweet_mode='extended').items(10):
   look at full_text instead.
   and then full_text of retweeted_status to get untruncated.
-**    part 1
+**    part 1  DONE 
 **    part 2
 **    part 
 * revise tweets to hold search term term on a per-tweet basis. 
-** part 2
+** part 2   working[6] onwards
 *** redo annotations
 ** part 3
 * part 3
