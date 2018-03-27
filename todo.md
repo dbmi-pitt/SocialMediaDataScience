@@ -1,14 +1,5 @@
-*check in and move
-*search mode extended - search_tweets = api.search('trump',count=1,tweet_mode='extended') - 
-  for tweet in tweepy.Cursor(api.home_timeline,tweet_mode='extended').items(10):
-  look at full_text instead.
-  and then full_text of retweeted_status to get untruncated.
-**    part 1  DONE 
-**    part 2
-**    part 
-* revise tweets to hold search term term on a per-tweet basis. 
-** part 2   working[6] onwards
-*** redo annotations
+** exercise 2.2
+** add an exercise about revising the search to avoid repeats of retweets
 ** part 3
 * part 3
 ** revise startup code with read in
@@ -114,3 +105,14 @@ new tweet set for vaping  - and save
 *** get rid of self.contents DONE
 *** test again DONE 
 *** review/revise explanatory text
+*check in and move
+*search mode extended - search_tweets = api.search('trump',count=1,tweet_mode='extended') - 
+  for tweet in tweepy.Cursor(api.home_timeline,tweet_mode='extended').items(10):
+  look at full_text instead.
+  and then full_text of retweeted_status to get untruncated.
+**    part 1  DONE 
+**    part 2  -
+**    part 
+* revise tweets to hold search term term on a per-tweet basis. 
+** part 2   working[6] onwards
+*** redo annotations
