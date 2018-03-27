@@ -1,6 +1,4 @@
-** exercise 2.2
-** add an exercise about revising the search to avoid repeats of retweets
-** part 3
+
 * part 3
 ** revise startup code with read in
 ** add full tweet clas
@@ -116,3 +114,8 @@ new tweet set for vaping  - and save
 * revise tweets to hold search term term on a per-tweet basis. 
 ** part 2   working[6] onwards
 *** redo annotations
+** exercise
+** add an exercise
+ about revising the search to avoid repeats of retweets
+ 
+** part 3
