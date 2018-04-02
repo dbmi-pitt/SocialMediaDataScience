@@ -1,7 +1,5 @@
+** 1.3 revised tokening onwards -- check number, etc.
 
-* part 3
-** revise startup code with read in
-** add full tweet clas
 ** NER
 ** profiling terms in smoking or non-smoking related
 ** NLP
@@ -119,3 +117,8 @@ new tweet set for vaping  - and save
  about revising the search to avoid repeats of retweets
  
 ** part 3
+** revise startup code with read in
+** add full tweet clas
+
+* part 3.1 o
+** spacy - discuss tag vs. pos.
