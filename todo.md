@@ -1,6 +1,13 @@
+** revise pos text - clarify role of dpeendency parsing.
+    https://spacy.io/usage/linguistic-features#dependency-parse
+    https://stackoverflow.com/questions/36610179/how-to-get-the-dependency-tree-with-spacy
+    https://spacy.io/usage/processing-pipelines
 ** 1.3 revised tokening onwards -- check number, etc.
 *** move revised tokenizing before pos
-*** 
+*** check to see if ful loop is relly neeeded
+***  add exercises about further changes. 
+*** add revised parser to a new class tha we will use
+**** add this new class to the Tweet class.
 ** NER
 ** profiling terms in smoking or non-smoking related
 ** NLP
