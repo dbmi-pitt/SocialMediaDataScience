@@ -1,5 +1,6 @@
 ** 1.3 revised tokening onwards -- check number, etc.
-
+*** move revised tokenizing before pos
+*** 
 ** NER
 ** profiling terms in smoking or non-smoking related
 ** NLP
