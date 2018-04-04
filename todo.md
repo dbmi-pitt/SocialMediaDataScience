@@ -1,16 +1,19 @@
+
+tagging 
+parsing
+
+*** where is lemmatization
 ** revise pos text - clarify role of dpeendency parsing.
     https://spacy.io/usage/linguistic-features#dependency-parse
     https://stackoverflow.com/questions/36610179/how-to-get-the-dependency-tree-with-spacy
     https://spacy.io/usage/processing-pipelines
-** 1.3 revised tokening onwards -- check number, etc.
-*** move revised tokenizing before pos
-*** check to see if ful loop is relly neeeded
+
+ ** add revised tokenizer to Tweets object
 ***  add exercises about further changes. 
 *** add revised parser to a new class tha we will use
 **** add this new class to the Tweet class.
 ** NER
-** profiling terms in smoking or non-smoking related
-** NLP
+** profili
 ** adding some exercises
 ** machine learning 
 ** more exercises
@@ -130,3 +133,10 @@ new tweet set for vaping  - and save
 
 * part 3.1 o
 ** spacy - discuss tag vs. pos.
+
+** 1.3 move tokenizing earlier .
+
+*** check to see if ful loop is relly neeeded
+
+ng terms in smoking or non-smoking related
+** NLPrevised tokening onwards -- check number, etc.
