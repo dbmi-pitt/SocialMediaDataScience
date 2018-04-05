@@ -1,19 +1,13 @@
-
--where is lemmatization (in tagger)
 parsing
---- just inf... 
-
-** revise pos text - clarify role of dpeendency parsing.
     https://spacy.io/usage/linguistic-features#dependency-parse
+    	  https://spacy.io/usage/linguistic-features - dpenedncy    parese and disa
     https://stackoverflow.com/questions/36610179/how-to-get-the-dependency-tree-with-spacy
-    https://spacy.io/usage/processing-pipelines
-
-***  add exercises about further changes. 
+    add exercises about further changes. 
 *** ??/add revised parser to a new class tha we will use
 ****??? add this new class to the Tweet class.
 ** NER
-** profili
 ** adding some exercises
+** profiling types of text... - tokens seen
 ** machine learning 
 ** more exercises
 ** more readme
@@ -146,3 +140,13 @@ bonus challenge on tokenzier
 add links to further information about tokenizing
 tagging 
 print(parsed[8].text)
+     https://spacy.io/usage/spacy-101
+	- add dscussion of tokenzier from https://spacy.io/usage/spacy-101 and 
+	  https://spacy.io/usage/linguistic-features#tokenization   
+      	  assert sentences[1].text == u'Peach is the superior emoji.
+          
+ fix spaCy spelling
+ 
+ -lemma, is alpha, is stop in tokenizer
+tagging
+'
