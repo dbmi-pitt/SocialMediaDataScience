@@ -1,17 +1,16 @@
 
-tagging 
+-where is lemmatization (in tagger)
 parsing
+--- just inf... 
 
-*** where is lemmatization
 ** revise pos text - clarify role of dpeendency parsing.
     https://spacy.io/usage/linguistic-features#dependency-parse
     https://stackoverflow.com/questions/36610179/how-to-get-the-dependency-tree-with-spacy
     https://spacy.io/usage/processing-pipelines
 
- ** add revised tokenizer to Tweets object
 ***  add exercises about further changes. 
-*** add revised parser to a new class tha we will use
-**** add this new class to the Tweet class.
+*** ??/add revised parser to a new class tha we will use
+****??? add this new class to the Tweet class.
 ** NER
 ** profili
 ** adding some exercises
@@ -140,3 +139,10 @@ new tweet set for vaping  - and save
 
 ng terms in smoking or non-smoking related
 ** NLPrevised tokening onwards -- check number, etc.
+ ** add revised tokenizer to Tweets object
+ try the routine for tokenizer
+bonus challenge on tokenzier
+
+add links to further information about tokenizing
+tagging 
+print(parsed[8].text)
