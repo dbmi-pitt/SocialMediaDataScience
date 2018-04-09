@@ -1,11 +1,6 @@
-parsing
-    https://spacy.io/usage/linguistic-features#dependency-parse
-    	  https://spacy.io/usage/linguistic-features - dpenedncy    parese and disa
-    https://stackoverflow.com/questions/36610179/how-to-get-the-dependency-tree-with-spacy
-    add exercises about further changes. 
-*** ??/add revised parser to a new class tha we will use
-****??? add this new class to the Tweet class.
-** NER
+ *** where/how is dependency parsing done (point to literature)
+ ** where might it be used - ie, in rules...
+* NER
 ** adding some exercises
 ** profiling types of text... - tokens seen
 ** machine learning 
@@ -149,4 +144,10 @@ print(parsed[8].text)
  
  -lemma, is alpha, is stop in tokenizer
 tagging
+
+parsing
+    https://spacy.io/usage/linguistic-features#dependency-parse
+    	  https://spacy.io/usage/linguistic-features - dpenedncy    parese and disa
+    https://stackoverflow.com/questions/36610179/how-to-get-the-dependency-tree-with-spacy
+    add exercises about further changes
 '
