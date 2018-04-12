@@ -1,8 +1,8 @@
- *** where/how is dependency parsing done (point to literature)
- ** where might it be used - ie, in rules...
 * NER
-** adding some exercises
+* add exercise in looking at filtered token and named entities to see what we come up with
 ** profiling types of text... - tokens seen
+- with and without verbs
+- how to save and track results ..
 ** machine learning 
 ** more exercises
 ** more readme
@@ -151,3 +151,11 @@ parsing
     https://stackoverflow.com/questions/36610179/how-to-get-the-dependency-tree-with-spacy
     add exercises about further changes
 '
+ *** where/how is dependency parsing done (point to literature)
+ ** where might it be used - ie, in rules...
+ 
+ * review for format and section numbers
+    part 1 - 1.x
+        exercise 1.1
+      part 2
+      part 3
