@@ -1,9 +1,15 @@
-* NER
-* add exercise in looking at filtered token and named entities to see what we come up with
-** profiling types of text... - tokens seen
-- with and without verbs
-- how to save and track results ..
+* add exercise in looking at filtered token and named entities to see what we come up with 
+** write a routine.
+** look at this for filterend and unfiltered tokens.
 ** machine learning 
+** class with data and pointer to original tweets.
+**https://github.com/explosion/spaCy/blob/master/examples/training/train_textcat.py
+** question - do this or scikit  version? how to do bigrams - filtered?
+**reshape to 
+    http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+** bag of words 
+    http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
+****bigrams.
 ** more exercises
 ** more readme
 ** fill out list of modules, etc. in references
@@ -159,3 +165,8 @@ parsing
         exercise 1.1
       part 2
       part 3
+      
+      
+      http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+      
+      
