@@ -1,8 +1,12 @@
+
+
 * add exercise in looking at filtered token and named entities to see what we come up with 
 ** write a routine.
 ** look at this for filterend and unfiltered tokens.
-** machine learning 
-** class with data and pointer to original tweets.
+* machine learning 
+** build up vectoraizer using filtertokens from exercise
+** add code from spacy explroations
+*** try bigrams...
 **https://github.com/explosion/spaCy/blob/master/examples/training/train_textcat.py
 ** question - do this or scikit  version? how to do bigrams - filtered?
 **reshape to 
@@ -168,5 +172,4 @@ parsing
       
       
       http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
-      
-      
+      * revise exercise in part 3 to not include parsing stuff in tweet class. 
