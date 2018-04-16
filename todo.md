@@ -1,8 +1,7 @@
-
-
+* comment on overlap.
+* exercise on revising stop word list, thinking about #vape vs. vape.
 * add exercise in looking at filtered token and named entities to see what we come up with 
-** write a routine.
-** look at this for filterend and unfiltered tokens.
+
 * machine learning 
 ** build up vectoraizer using filtertokens from exercise
 ** add code from spacy explroations
@@ -172,4 +171,11 @@ parsing
       
       
       http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
-      * revise exercise in part 3 to not include parsing stuff in tweet class. 
+      * revise exercise in part 3 to not include parsing stuff in tweet class. * change the include stuff to only include certain verbs
+* and to only return the lemma version.
+* compare with filtered and unfilterd.
+
+* add reference to the tagger gist...
+* fix stop words.https://stackoverflow.com/questions/41170726/add-remove-stop-words-with-spacy
+* make sure I'm catching hashtags
+** write a routine.
