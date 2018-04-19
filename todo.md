@@ -1,6 +1,3 @@
-* comment on overlap.
-* exercise on revising stop word list, thinking about #vape vs. vape.
-* add exercise in looking at filtered token and named entities to see what we come up with 
 
 * machine learning 
 ** build up vectoraizer using filtertokens from exercise
@@ -179,3 +176,9 @@ parsing
 * fix stop words.https://stackoverflow.com/questions/41170726/add-remove-stop-words-with-spacy
 * make sure I'm catching hashtags
 ** write a routine.
+* comment on overlap in frequent.
+* exercise on revising stop word list, thinking about #vape vs. vape. - ask people to clean up output
+* add exercise in looking at filtered token and named entities to see what we come up with 
+  #3.3.1
+  #3.3.2
+ ** fix tokens with zero length
