@@ -1,24 +1,13 @@
 
 * machine learning 
-** build up vectorizer using filtertokens from exercise
-*** grab includetokens and filter tokens from part 3
-*** build up tokenizer
-** fix test train split - zip, shuffle, split up.
-** train
-** eval
-** test
-** eval
-** MOVE THIS INTO PART 3 (OR 4)
-
-** add code from spacy explroations
-*** try bigrams...
-**https://github.com/explosion/spaCy/blob/master/examples/training/train_textcat.py
-** question - do this or scikit  version? how to do bigrams - filtered?
-**reshape to 
-    http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
-** bag of words 
-    http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
-****bigrams.
+** revise spacy with scikit to use filtertokens from part 3 (with ents)
+** start of part 4
+*** grab includeToken and filterTokens from part 3
+** work towards toenizer. 
+** introduce vecotr.
+* test train split
+eval 
+test
 ** more exercises
 ** more readme
 ** fill out list of modules, etc. in references
