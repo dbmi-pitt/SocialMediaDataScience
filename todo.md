@@ -1,16 +1,16 @@
 
 * machine learning 
-** revise spacy with scikit to use filtertokens from part 3 (with ents)
-** start of part 4
-*** grab includeToken and filterTokens from part 3
-** work towards toenizer. 
-** introduce vecotr.
-* test train split
+** spacy nlp attribution
+** notion of vectorizer
+** pipeline
+** test/train split
+train
 eval 
 test
 ** more exercises
+** new datast with 100...
 ** more readme
-** fill out list of modules, etc. in references
+ll out list of modules, etc. in references
 ** review jupyter on github
 ** https://help.github.com/articles/working-with-jupyter-notebook-files-on-github/ 
 ** look at   https://github.com/jakelever/kindred
@@ -180,3 +180,6 @@ parsing
   #3.3.1
   #3.3.2
  ** fix tokens with zero length
+ ** revise spacy with scikit to use filtertokens from part 3 (with ents)
+** start of part 4
+*** grab includeToken and filterTokens from part 3
