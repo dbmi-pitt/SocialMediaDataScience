@@ -2,6 +2,9 @@
 * machine learning 
 ** spacy nlp attribution
 ** notion of vectorizer
+*** shape and contents of vectorizer.
+*** tfidf
+*** shape and contents.
 ** pipeline
 ** test/train split
 train
