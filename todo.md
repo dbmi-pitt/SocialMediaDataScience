@@ -1,8 +1,7 @@
-
 * machine learning 
-** spacy nlp attribution
 ** notion of vectorizer
 *** shape and contents of vectorizer.
+*** difference between fit and transform of vectorizer. 
 *** tfidf
 *** shape and contents.
 ** pipeline
@@ -186,3 +185,4 @@ parsing
  ** revise spacy with scikit to use filtertokens from part 3 (with ents)
 ** start of part 4
 *** grab includeToken and filterTokens from part 3
+** spacy nlp attribution
