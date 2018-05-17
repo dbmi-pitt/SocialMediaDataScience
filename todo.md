@@ -1,5 +1,6 @@
-** pipeline
+*** 4.1.3 vectorizer with spacy customized tokenizer
 ** test/train split
+** pipeline
 train
 eval 
 test
