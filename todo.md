@@ -1,11 +1,8 @@
-* machine learning 
-** notion of vectorizer
-*** shape and contents of vectorizer.
-*** difference between fit and transform of vectorizer. 
-*** tfidf
-*** shape and contents.
-** pipeline
+** find out why something might be parsed appropriately but not found in tokenzier.
+
+*** 4.1.3 vectorizer with spacy customized tokenizer
 ** test/train split
+** pipeline
 train
 eval 
 test
@@ -186,3 +183,9 @@ parsing
 ** start of part 4
 *** grab includeToken and filterTokens from part 3
 ** spacy nlp attribution
+* machine learning 
+** notion of vectorizer
+*** shape and contents of vectorizer.
+*** difference between fit and transform of vectorizer. 
+*** tfidf
+*** shape and contents
