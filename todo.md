@@ -1,3 +1,5 @@
+** find out why something might be parsed appropriately but not found in tokenzier.
+
 *** 4.1.3 vectorizer with spacy customized tokenizer
 ** test/train split
 ** pipeline
