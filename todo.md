@@ -1,8 +1,3 @@
-
-*** 4.1.3 vectorizer with spacy customized tokenizer
-** find out why something might be parsed appropriately but not found in tokenzier.
-** change part 4 to use 5 specific tweets
-
 ** test/train split
 ** pipeline
 train
@@ -191,3 +186,4 @@ parsing
 *** difference between fit and transform of vectorizer. 
 *** tfidf
 *** shape and contents
+
