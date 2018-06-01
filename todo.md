@@ -3,13 +3,16 @@
 train
 eval 
 test
+* something on model averaging
 ** more exercises
 ** new datast with 100...
 ** more readme
 ll out list of modules, etc. in references
-** review jupyter on github
-** https://help.github.com/articles/working-with-jupyter-notebook-files-on-github/ 
-** look at   https://github.com/jakelever/kindred
+* add logos
+* work on instruction/configuration
+* review jupyter on github
+* https://help.github.com/articles/working-with-jupyter-notebook-files-on-github/ 
+* look at   https://github.com/jakelever/kindred
 ---
 # DONE
 * Verify saved data
