@@ -1,9 +1,9 @@
-** test/train split
 ** pipeline
 train
 eval 
 test
 * something on model averaging
+* something on roc
 ** more exercises
 ** new datast with 100...
 ** more readme
@@ -190,3 +190,4 @@ parsing
 *** tfidf
 *** shape and contents
 
+** test/train split
