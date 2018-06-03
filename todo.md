@@ -1,7 +1,4 @@
-** pipeline
-train
-eval 
-test
+* more on test/train/ ec.
 * something on model averaging
 * something on roc
 ** more exercises
@@ -191,3 +188,7 @@ parsing
 *** shape and contents
 
 ** test/train split
+** pipeline
+train
+eval 
+test
