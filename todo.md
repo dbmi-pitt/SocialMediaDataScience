@@ -4,7 +4,7 @@
 ** more exercises
 ** new datast with 100...
 ** more readme
-ll out list of modules, etc. in references
+** pull out list of modules, etc. in references
 * add logos
 * work on instruction/configuration
 * review jupyter on github
