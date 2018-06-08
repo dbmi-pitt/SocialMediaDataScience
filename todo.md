@@ -1,5 +1,7 @@
 * more on test/train/ ec.
-* something on model averaging
+* scramble the labels
+* different sizes of test/train
+* something on model averaging/cross fold
 * something on roc
 ** more exercises
 ** new datast with 100...
