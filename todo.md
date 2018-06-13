@@ -1,3 +1,4 @@
+* fix part 1 - revert file.
 * more on test/train/ ec.
 * scramble the labels
 * different sizes of test/train
