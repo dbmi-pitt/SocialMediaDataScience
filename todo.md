@@ -1,5 +1,6 @@
 
 * precision recalll
+** conversion
 * exercise - different sizes of test/train
 * exercise - scramble the labels
 * comments on 
