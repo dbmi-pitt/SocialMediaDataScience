@@ -1,15 +1,17 @@
-* fix part 1 - revert file.
-* more on test/train/ ec.
-* scramble the labels
-* different sizes of test/train
-* something on model averaging/cross fold
-* something on roc
-** more exercises
-** new datast with 100...
-** more readme
-** pull out list of modules, etc. in references
+
+* precision recalll
+* exercise - different sizes of test/train
+* exercise - scramble the labels
+* comments on 
+**something on model averaging/cross fold
+***something on roc
+* more exercises
+**new datast with 100...
+* more readme
+* pull out list of modules, etc. in references
 * add logos
 * work on instruction/configuration
+** jupyter on github
 * review jupyter on github
 * https://help.github.com/articles/working-with-jupyter-notebook-files-on-github/ 
 * look at   https://github.com/jakelever/kindred
@@ -195,3 +197,5 @@ parsing
 train
 eval 
 test
+* fix part 1 - revert file.
+* more on test/train/ ec.
