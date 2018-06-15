@@ -1,11 +1,15 @@
-
 * precision recalll
-** conversion
+* change title
+* conversion
+* output tables
 * exercise - different sizes of test/train
 * exercise - scramble the labels
+* exercise - write your own p/r code
 * comments on 
 **something on model averaging/cross fold
 ***something on roc
+
+ 
 * more exercises
 **new datast with 100...
 * more readme
