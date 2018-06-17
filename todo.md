@@ -1,8 +1,6 @@
-* exercise - write your own p/r code
-* mention roc
-* exercise - different sizes of test/train
-* exercise - scramble the labels
- 
+
+
+* exercise - scramble the labels 
 * more exercises
 **new datast with 100...
 * more readme
@@ -205,3 +203,7 @@ test
 * spec/sens
 * generate precision/recall by hand
 * comment about arrays. 
+* exercise - write your own p/r code
+* exercise - different sizes of test/train
+
+* add comment about default values in splits
