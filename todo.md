@@ -1,10 +1,7 @@
-
-* mention roc
 * exercise - write your own p/r code
+* mention roc
 * exercise - different sizes of test/train
 * exercise - scramble the labels
-* comments on 
-*something on model averaging/cross fold
  
 * more exercises
 **new datast with 100...
