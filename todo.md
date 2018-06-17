@@ -1,14 +1,10 @@
-* precision recalll
-* change title
-* conversion
-* output tables
+
+* mention roc
+* exercise - write your own p/r code
 * exercise - different sizes of test/train
 * exercise - scramble the labels
-* exercise - write your own p/r code
 * comments on 
-**something on model averaging/cross fold
-***something on roc
-
+*something on model averaging/cross fold
  
 * more exercises
 **new datast with 100...
@@ -204,3 +200,11 @@ eval
 test
 * fix part 1 - revert file.
 * more on test/train/ ec.
+* change title
+** 1
+** 2
+** 3
+** 4
+* spec/sens
+* generate precision/recall by hand
+* comment about arrays. 
