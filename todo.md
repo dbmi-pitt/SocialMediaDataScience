@@ -1,5 +1,3 @@
-
-
 * exercise - scramble the labels 
 * more exercises
 **new datast with 100...
