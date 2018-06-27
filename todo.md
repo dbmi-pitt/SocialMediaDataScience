@@ -1,4 +1,4 @@
-* exercise - scramble the labels   - test it...
+
 * more exercises
 **new datast with 100...
 * more readme
@@ -205,3 +205,4 @@ test
 * exercise - different sizes of test/train
 
 * add comment about default values in splits
+* exercise - scramble the labels   - test it...
