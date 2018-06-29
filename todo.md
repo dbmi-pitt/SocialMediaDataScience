@@ -1,14 +1,21 @@
 
-* more exercises
 **new datast with 100...
-* more readme
+* what other code do I need from part4 
+* what other libraries?
+* what other topics should I consider (some search with good balance?, interesting problems? sentiment?
+
+
 * pull out list of modules, etc. in references
+* intro page.
+
 * add logos
 * work on instruction/configuration
 ** jupyter on github
 * review jupyter on github
 * https://help.github.com/articles/working-with-jupyter-notebook-files-on-github/ 
 * look at   https://github.com/jakelever/kindred
+* create student/instruction version
+
 ---
 # DONE
 * Verify saved data
