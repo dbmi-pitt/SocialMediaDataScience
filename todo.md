@@ -4,7 +4,6 @@
 * what other libraries?
 * what other topics should I consider (some search with good balance?, interesting problems? sentiment?
 
-
 * pull out list of modules, etc. in references
 * intro page.
 
