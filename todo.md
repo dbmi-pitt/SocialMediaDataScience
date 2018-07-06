@@ -1,4 +1,5 @@
 
+    
 **new datast with 100...
 * what other code do I need from part4 
 * what other libraries?
@@ -212,3 +213,13 @@ test
 
 * add comment about default values in splits
 * exercise - scramble the labels   - test it...
+* revise tweet retrieval to get 100 at a time and then wait, and to combine sets
+ - add "combine" method to grab in from another set.
+ - add notes on  1) timing
+     2) combining   
+    p1*
+    p2*
+    p3  ????/
+    
+    p4
+    p5
