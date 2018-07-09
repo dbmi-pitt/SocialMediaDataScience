@@ -1,16 +1,11 @@
-* crap. fix combineTweets
-    part 1*
-     part 2*
-     part 3
-     part 4
-     part 5
      
     
 **new datast with 100...
 * what other code do I need from part4 
 * what other libraries?
 * what other topics should I consider (some search with good balance?, interesting problems? sentiment?
-
+    * revise text on part 5 with something about individual or non
+    
 * pull out list of modules, etc. in references
 * intro page.
 
@@ -229,3 +224,7 @@ test
     
     p4
     p5
+* no more..
+
+
+    
