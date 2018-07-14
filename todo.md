@@ -1,15 +1,12 @@
-     
-    
-**new datast with 100...
-* what other code do I need from part4 
-* what other libraries?
-* what other topics should I consider (some search with good balance?, interesting problems? sentiment?
-    * revise text on part 5 with something about individual or non
-    
+finish part 5
+* add logos     
 * pull out list of modules, etc. in references
-* intro page.
 
-* add logos
+
+       
+     intro page. - matches case stud from utah
+
+       prep answer and instructor version with api keys
 * work on instruction/configuration
 ** jupyter on github
 * review jupyter on github
@@ -121,6 +118,11 @@ new tweet set for vaping  - and save
 ** exercise
 ** add an exercise
  about revising the search to avoid repeats of retweets
+     
+**new datast with 100...
+* what other code do I need from part4 
+* what other libraries?
+* 
  
 ** part 3
 ** revise startup code with read in
@@ -225,6 +227,14 @@ test
     p4
     p5
 * no more..
+* revise text on part 5 with something about individual or non - ok
 
+        
 
+* revise tweets to ensure that i check for codes before get codes
+    redo 50 annotations and save in annotated file.
     
+      * check split
+       *nbuild models
+       eval
+       
