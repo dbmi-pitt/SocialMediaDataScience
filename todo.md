@@ -1,10 +1,8 @@
-finish part 5
+
 * add logos     
 * pull out list of modules, etc. in references
-
-
        
-     intro page. - matches case stud from utah
+     intro page. - matches case study from utah
 
        prep answer and instructor version with api keys
 * work on instruction/configuration
@@ -237,4 +235,5 @@ test
       * check split
        *nbuild models
        eval
+       finish part 5
        
