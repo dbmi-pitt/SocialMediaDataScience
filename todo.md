@@ -1,17 +1,9 @@
 
-* add logos     
-* pull out list of modules, etc. in references
-       
+
      intro page. - matches case study from utah
-
-       prep answer and instructor version with api keys
-* work on instruction/configuration
-** jupyter on github
-* review jupyter on github
-* https://help.github.com/articles/working-with-jupyter-notebook-files-on-github/ 
-* look at   https://github.com/jakelever/kindred
-* create student/instruction version
-
+* work on instruction/configuration - in a README
+* wordpress page.
+prep answer and instructor version with api keys
 ---
 # DONE
 * Verify saved data
@@ -237,3 +229,20 @@ test
        eval
        finish part 5
        
+       
+           
+* pull out list of modules, etc. in entry page - take them out of individual pages. 
+    contact roger.
+    
+    
+* add front matter
+** logos
+** author
+** funding
+**cc
+*2
+*3
+*4
+*5
+* add entry page
+    opening
