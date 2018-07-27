@@ -1,6 +1,6 @@
+ intro page. - matches case study from utah
+* figure out the links between parts - fix  - %20 for space
 
-
-     intro page. - matches case study from utah
 * work on instruction/configuration - in a README
 * wordpress page.
 prep answer and instructor version with api keys
