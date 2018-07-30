@@ -1,7 +1,8 @@
- intro page. - matches case study from utah
-* figure out the links between parts - fix  - %20 for space
-
-* work on instruction/configuration - in a README
+* work on instruction/configuration - in a README.md
+** fork
+** work
+** push (in terminal) (talk about ssh keys)
+** private/remove api keys, etc.
 * wordpress page.
 prep answer and instructor version with api keys
 ---
@@ -63,6 +64,8 @@ prep answer and instructor version with api keys
      
  
 * part 1 - move search into tweets object. see how it goes. revise as appropriate
+ intro page. - matches case study from utah
+
 * fix comparison and save/load
 * treat tweet ids as srings
 * move stuff about uniques
@@ -246,3 +249,5 @@ test
 *5
 * add entry page
     opening
+
+* part 4 - reflection
