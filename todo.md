@@ -1,10 +1,17 @@
-* work on instruction/configuration - in a README.md
-** fork
-** work
-** push (in terminal) (talk about ssh keys)
-** private/remove api keys, etc.
+
+prep answer version and instructor version without keys
+* take my version 
+* clean out garbage
+* rename 
+* clone bare to instructor version
+* remove keys
+* remove junk files.
+* clone bare again to student
+* clone to github
+
+* make it socialmediadatascience 
+
 * wordpress page.
-prep answer and instructor version with api keys
 ---
 # DONE
 * Verify saved data
@@ -251,3 +258,9 @@ test
     opening
 
 * part 4 - reflection
+
+* work on instruction/configuration - in a README.md
+** fork - done
+** work
+** push (in terminal) 
+** private/remove api keys, etc.
