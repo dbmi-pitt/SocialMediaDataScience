@@ -1,16 +1,23 @@
 
 prep answer version and instructor version without keys
-* take my version 
-* clean out garbage
-* rename 
-* clone bare to instructor version
-* remove keys
-* remove junk files.
-* clone bare again to student
-* clone to github
-
-* make it socialmediadatascience 
-
+* clean out answers
+** branches - DONE - no branches
+** apikeys  *DONE*
+***  part 1
+*** part 2 
+*** part 3
+*** part 4
+*** part 5
+** unnecessary files
+** ipynb
+** combine part 0 and introduction 
+** json
+* push/commit
+* duplicate answers to just SocialMediaDataScience 
+* make it socialmediadatascience - as per https://help.github.com/articles/duplicating-a-repository/
+* remove answers
+* commit
+* move answers and regular page to github
 * wordpress page.
 ---
 # DONE
