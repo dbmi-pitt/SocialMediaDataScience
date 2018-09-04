@@ -7,7 +7,7 @@ Designed as a self-study, this module will take you through the process of retri
 
 Content is provided in the form of [Jupyter notebooks](http://www.jupyter.org).  If you need an introduction to Jupyter, you can see the [official documents](https://jupyter-notebook.readthedocs.io/en/latest/) or this [Medium article](https://jupyter-notebook.readthedocs.io/en/latest/). 
 
-You can run these notebooks on a jupyterhub server - potentially one provided by your course - or on your own computer, appropriately configured with Python and other libraries.
+You can run these notebooks on a jupyterhub server - potentially one provided by your course - or on your own computer, appropriately configured with Python and other libraries. See [Part 0](SocialMedia%20%-%20Part%0.ibynp) for information on Python modules that you will need.
 
 The remainder of this document will discuss how to use these modules for your class work.
 
@@ -42,7 +42,7 @@ Once this is setup, we can go to work.
 3. From the home page of this repository, press the "Clone or Download" button [fork](images/fork-clone.jpg). This will lead to the display of the Git URL for the repository (it will probably look something like https://github.com/dbmi-pitt/SocialMediaDataScience.git). Copy this URL.
 4. type "git clone --bare " followed by the URL of the repository. For example, "git clone --bare https://github.com/dbmi-pitt/SocialMediaDataScience.git". This will create a new directory named "SocialMediaDataScience.git"
 5. Go into the new directory - "cd SocialMediaDataScience.git"
-6. Grabbing the addres of hte new repository that you created in step one, run "git push --mirror " followed by the repository name. For example "git push --mirror https://github.com/harryhoch/SocialMediaDataScience.git" (with "harryhcoh" replaced by your user name"). You will have to provide a user name and password. At this point, the code will be added to your repository on GitHub. Go back to refresh the GitHub page. You will see the files.
+6. Grabbing the address of the new repository that you created in step one, run "git push --mirror " followed by the repository name. For example "git push --mirror https://github.com/harryhoch/SocialMediaDataScience.git" (with "harryhcoh" replaced by your user name"). You will have to provide a user name and password. At this point, the code will be added to your repository on GitHub. Go back to refresh the GitHub page. You will see the files.
 7. In the terminal window, go up to the top-level directory by running "cd .."
 8. Remove the directory that was created for when you ran "git clone". You can do this by running "rm -rf .." followed by the directory name. For example, "rm -rf SocialMediaDataScience.git"
 9. Get the URL of the new repository in GitHub ("https://github.com/harryhoch/SocialMediaDataScience.git", as modified for your GitHub user name).
@@ -75,16 +75,17 @@ Here, you're going to start working in the Notebooks.
 2. You'll see several files listed, including notebooks with names like "SocialMedia - Part 0.ibpynb", with numbers indicating part 0 - part 5. 
 3. Click on one of these to open and start the notebook.
 4. Read through and execute the code in the notebook.  You can add cells to experiment and run code as you like.
-5. One thing you will be asked to do is to create API Keys for Twitter and to save them in the notebooks. Please do that where indicated.
-6. Every once in a while, you will want to hit "Save and Checkpoint" to save your work. This will also happen automatically, but it doesn't hurt to do it manually as well.
-7. Each of the 5 parts has one or more exercises to go through, with indications of where your work should be added. Add cells and show the proper execution of your code, saving the worksheets when you are done.
+5. You will be asked to create API Keys for Twitter and to save them in the notebooks. Please do that where indicated.
+6. Each part of the module will have exercises, with cells inidicating where you should submit answers. Use these parts of the notebook to work on the exercises and to show your work. 
+7. Every once in a while, you will want to hit "Save and Checkpoint" to save your work. This will also happen automatically, but it doesn't hurt to do it manually as well.
+8. Each of the 5 parts has one or more exercises to go through, with indications of where your work should be added. Add cells and show the proper execution of your code, saving the worksheets when you are done.
 
 ## 6. Consider pushing
 
 As you do your work on these modules, you will change the notebook and add file to the directory. To keep track of these artifacts, you will need to "push" them back on to GitHub/GitLab. To do this, follow these instructions:
 
 1. From the Jupyter homepage, create a terminal window. As described above, Click "New" on the top right, and select "Terminal" [Terminal](images/new-terminal.png).
-2. In the terminal window, change into the directory for this proect - "cd SocialMediaDataScience" 
+2. In the terminal window, change into the directory for this project - "cd SocialMediaDataScience" 
 3. Run "git status". This will tell you which files have been added or modified.
 4. For each file listed under "git status", type "git add .." followed by the filename, and then press return. This will prepare all of the files to be added or revised in the repository.
 5. type "git commit -m'some message'",where you can replace 'some message' with an informative message. For example, you might say 'git commit -m'finished part 1'". 
