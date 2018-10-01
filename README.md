@@ -73,8 +73,8 @@ Here, you're going to start working in the Notebooks.
 
 1. From the Jupyter home page, select the folder "SocialMediaDataScience".
 2. You'll see several files listed, including notebooks with names like "SocialMedia - Part 0.ibpynb", with numbers indicating part 0 - part 5. 
-3. Click on one of these to open and start the notebook.
-4. Read through and execute the code in the notebook.  You can add cells to experiment and run code as you like.
+3. Click on "Part 0" and start the notebook.
+4. Read through and execute the code in the notebook, going from part 0 to part 5 in order.  You can add cells to experiment and run code as you like.
 5. You will be asked to create API Keys for Twitter and to save them in the notebooks. Please do that where indicated.
 6. Each part of the module will have exercises, with cells inidicating where you should submit answers. Use these parts of the notebook to work on the exercises and to show your work. 
 7. Every once in a while, you will want to hit "Save and Checkpoint" to save your work. This will also happen automatically, but it doesn't hurt to do it manually as well.
