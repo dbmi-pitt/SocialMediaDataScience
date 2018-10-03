@@ -5,7 +5,7 @@ processing to study online interactions via social media.
 
 Designed as a self-study, this module will take you through the process of retrieving, storing and analyzing tweets. Topics will include qualitative annotation, natural language processing, and classification using basic machine-learning methods. 
 
-Content is provided in the form of [Jupyter notebooks](http://www.jupyter.org).  If you need an introduction to Jupyter, you can see the [official documents](https://jupyter-notebook.readthedocs.io/en/latest/) or this [Medium article](https://jupyter-notebook.readthedocs.io/en/latest/). 
+Content is provided in the form of [Jupyter notebooks](http://www.jupyter.org).  If you need an introduction to Jupyter, you can see the [official documents](https://jupyter-notebook.readthedocs.io/en/latest/) or this [Medium article](https://medium.com/analytics-vidhya/comprehensive-beginners-guide-to-jupyter-notebooks-for-data-science-machine-learning-3289f746856e). 
 
 You can run these notebooks on a jupyterhub server - potentially one provided by your course - or on your own computer, appropriately configured with Python and other libraries. See [Part 0](SocialMedia%20%-%20Part%0.ibynp) for information on Python modules that you will need.
 
@@ -16,17 +16,43 @@ The remainder of this document will discuss how to use these modules for your cl
 The following steps describe how to use these modules in a Jupyter environment.
 
 
-## 1. Create a github or gitlab account
+## 1.  Get a Twitter Developer account
+
+Completing these modules requires a Twitter account with develop privileges. To do this, you can either create an individual Twitter account or join an organization account created by an instructor. As of October 2018, individual developer accounts require an approval process that has taken two weeks or longer, making educational group accounts an attractive option. 
+
+Instructions for both approaches are given below, based on Twitter facilities as of October 2018. Although every attempt will be made to keep these materials up to date, please note that details may change. If any aspect of this document seems out of date, please file a GitHub issue. 
+
+### 1.1 Creating an individual Developer Accouunt
+
+To create an individual developer account:
+
+1. Go to [Twitter's developer site ](Developer.twitter.com)
+2. Click on the "Apply" link. You wil be required to login to Twitter if you haven't already done so
+3. Complete the application. When asked for Account details, select "I am requesting access for my own personal use". 
+4. Fill out the form and indicate as best possible what your are building - say you are exploring the application of natural language processing and machine learning to Tweets.
+5. Submit the forms and wait for approval. 
+
+Please note that approval might take two weeks or more.
+
+### 1.2 Using a class/organization account
+
+If you are an instructor, please visit the [Twitter for education playbook](https://developer.twitter.com/en/docs/basics/developer-portal/guides/twitter-for-education) and follow the instructions. As part of this process, you will collect Twitter Ids from your students and provide them to Twitter for access. 
+
+Note that you will be asked to verify that you are a legitimate human educator.
+
+If you are a student, work with your instructor to ensure that they create an appropriate account and invite you to the resulting organization.
+
+## 2. Create a github or gitlab account
 
 [Github](https://www.Github.com) and [GitLab](https://www.gitlab.com) are two popular community sites based on the Git source-code control system. We're going to use Git to create your own local copy of these modules, and to store any changes. We'll tell you a bit about it here, but there's much more to learn -  for more information on Git, see [git-scm.com](https://git-scm.com/).
 
 For now, go to either [Github](https://www.Github.com) or [GitLab](https://www.gitlab.com) and create an account. Remember your account name.
 
-## 2. Create a new repository in your GitHub or GitLab.com
+## 3. Create a new repository in your GitHub or GitLab.com
 
 The Jupyter notebook exercises for these models are contained in a GitHub repository - a collection of related files managed using the Git source code control system. To do your work for these modules, you will need your own personal copy of this repository, stored in your GitHub or GitLab account.  Below, we give different descriptions for GitHub and GitLab.
 
-### 2.1 If you are using GitHub
+### 3.1 If you are using GitHub
 
 To do this in GitHub will require three browser windows:
 
@@ -47,7 +73,7 @@ Once this is setup, we can go to work.
 8. Remove the directory that was created for when you ran "git clone". You can do this by running "rm -rf .." followed by the directory name. For example, "rm -rf SocialMediaDataScience.git"
 9. Get the URL of the new repository in GitHub ("https://github.com/harryhoch/SocialMediaDataScience.git", as modified for your GitHub user name).
 
-### 2.2 If you are using GitLab
+### 3.2 If you are using GitLab
 1. Go to your GitLab homepage.
 2. Click "+" in the top menu bar.
 3. Select "New Project"
@@ -59,7 +85,7 @@ Once this is setup, we can go to work.
 9. When it is done, go to your home page. You should see a new repository. Go to the home page of that repository.  There will be a box under the repository title that says "SSH" with a URL next to it. Click on the "SSH" button to change it to "HTTPS".
 10. Copy the URL next to the "HTTPS" button.
 
-## 3. Clone the repository
+## 4. Clone the repository
 
 At this point, you should have the URL for your own personal copy of this repository. You will now need to clone it into your Jupyter environment.
 
@@ -67,7 +93,7 @@ At this point, you should have the URL for your own personal copy of this reposi
 2. run "git clone .." followed by the URL of your repository. You will need to provide your GitHub or GitLab user name and password.
 3. In a new browser tab (or in an existing browser tab if you already have it open), go to the home page of your Jupyter environment. You will see a new directory, likely entitled "SocialMediaDataScience". This is where you will do your work.
 
-## 4. Start a Jupyter notebook and do your work.
+## 5. Start a Jupyter notebook and do your work.
 
 Here, you're going to start working in the Notebooks. 
 
