@@ -106,8 +106,7 @@ To do this in GitHub will require three browser windows:
 Once this is setup, we can go to work. 
 
 1. In the window on your GitHub repository page, press the "fork" button, found just below your avatar and user name in the title bar. It will ask you "Where should we fork this repository?". Choose the selection corresponding to your GitHub user name. The system will ask you to wait, and it will point you to a new page with a copy of this repository under your account. This is now your repository to use as you will, without any fear of damaging the main repository.
-2. On this page, there is a "Clone or download" button [fork](images/fork-clone.jpg). Click on this button and copy the link that shows up. 
-3. Go to your Jupyter home page. Click "New" on the top right, and select "Terminal" [Terminal](images/new-terminal.png). This will create a linux command-line terminal window in the browser. Alternatively, if you are using JupyterHub, press the "Terminal" button in the Launcher screen.
+2. On this page, there is a ["Clone or download" button](images/fork-clone.png). Click on this button and copy the link that shows up. You will need this URL in step 5.
 
 ### 4.2 If you are using GitLab
 1. Go to your GitLab homepage.
@@ -119,13 +118,13 @@ Once this is setup, we can go to work.
 7. Click "create project".  You can keep the repository to start.
 8. You'll see a message indicating that something is happening.
 9. When it is done, go to your home page. You should see a new repository. Go to the home page of that repository.  There will be a box under the repository title that says "SSH" with a URL next to it. Click on the "SSH" button to change it to "HTTPS".
-10. Copy the URL next to the "HTTPS" button.
+10. Copy the URL next to the "HTTPS" button. You will need this URL in step 5.
 
 ## 5. Clone the repository
 
 At this point, you should have the URL for your own personal copy of this repository. You will now need to clone it into your Jupyter environment.
 
-1. Go to your Jupyter home page. Click "New" on the top right, and select "Terminal" [Terminal](images/new-terminal.png). This will create a linux command-line terminal window in the browser. Alternatively, if you are using JupyterHub, press the "Terminal" button in the Launcher screen.
+1. Go to your Jupyter home page. Click "New" on the top right, and select ["Terminal"](images/new-terminal.png). This will create a linux command-line terminal window in the browser. Alternatively, if you are using JupyterHub, press the "Terminal" button in the Launcher screen.
 2. run "git clone .." followed by the URL of your repository. You will need to provide your GitHub or GitLab user name and password.
 3. In a new browser tab (or in an existing browser tab if you already have it open), go to the home page of your Jupyter environment. You will see a new directory, likely entitled "SocialMediaDataScience". This is where you will do your work. If you are using JupyterLab, this directory will appear in the file browser on the left.
 
