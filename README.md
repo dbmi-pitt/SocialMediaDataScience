@@ -13,8 +13,7 @@ Data science modules developed by the University of Pittsburgh Biomedical Inform
 
 Developed by Harry Hochheiser, harryh@pitt.edu. All errors are my responsibility.
 
-Creative Commons License
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 
 The remainder of this document will discuss how to use these modules for your class work.
