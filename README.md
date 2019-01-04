@@ -9,7 +9,7 @@ Content is provided in the form of [Jupyter notebooks](http://www.jupyter.org). 
 
 You can run these notebooks on a jupyterhub server - potentially one provided by your course - or on your own computer, appropriately configured with Python and other libraries. See [Part 0](SocialMedia%20%-%20Part%0.ibynp) for information on Python modules that you will need.
 
-Data science modules developed by the University of Pittsburgh Biomedical Informatics Training Program with the support of the National Library of Medicine data science supplement to the University of Pittsburgh (Grant # T15LM007059-30S1).
+Developed by the University of Pittsburgh Biomedical Informatics Training Program with the support of the National Library of Medicine data science supplement to the University of Pittsburgh (Grant # T15LM007059-30S1).
 
 Developed by Harry Hochheiser, harryh@pitt.edu. All errors are my responsibility.
 
