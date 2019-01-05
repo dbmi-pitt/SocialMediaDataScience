@@ -9,14 +9,6 @@ Content is provided in the form of [Jupyter notebooks](http://www.jupyter.org). 
 
 You can run these notebooks on a jupyterhub server - potentially one provided by your course - or on your own computer, appropriately configured with Python and other libraries. See [Part 0](SocialMedia%20%-%20Part%0.ibynp) for information on Python modules that you will need.
 
-Developed by the University of Pittsburgh Biomedical Informatics Training Program with the support of the National Library of Medicine data science supplement to the University of Pittsburgh (Grant # T15LM007059-30S1).
-
-Developed by Harry Hochheiser, harryh@pitt.edu. All errors are my responsibility.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-
-The remainder of this document will discuss how to use these modules for your class work.
-
 # Using the module
 
 The following steps describe how to use these modules in a Jupyter environment.
@@ -184,6 +176,98 @@ When you are done with all of the exercises, you will proceed as follows:
 3. Find "Permissions" and click on "Expand"
 4. Go to "Project visibility" and change it to "Public"
 5. Click "Save Changes".
+
+
+# 9. Description
+
+## 9.1 Learning Outcomes
+
+Upon completion of this module, students will be able to:
+
+* Understand the use of Application Programming Interfaces (APIs) to retrieve data from sites such as Twitter.
+* Understand the structure and content of resulting  data
+* Use and extend a Python class definition for managing extracted social media data, using Twitter as an example
+* Explore resulting social media data for patterns of authorship and other metadata.
+* Annotate/classify social media posts for further analysis.
+* Identify and discuss basic Natural Language Processing steps, including tokenization, lemmatization, part-of-speech tagging, and named entity recognition.
+* Use and extend code for executing key natural language processing pipeline steps.
+* Appreciate the relevance of vectorization for machine-learning classification of texts. 
+* Convert tweets into appropriate vector representations.
+* Verify the ouptut of a vectorizer.
+* Divide a dataset into test and train sets for machine learning.
+* Verify the distribution of classes into test and train sets.
+* Train and evaluate an SVM-based classifier.
+
+## 9.2 Licensing/Restrictions/Access
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/").
+
+## 9.3 Target Student Audience
+
+Upper undergraduate or first-year graduate students.
+
+## 9.4 Prerequisite Skills and Knowledge Required
+
+Students should have some familiarity with Python programming, including at least basic exposure to object-oriented programming.
+
+## 9.5 Domain Problem
+
+Social media has become a useful source of information about trends in perceptions and attitudes towards various health questions. This module challenges students to learn how to retrieve social media data and to use Natural Language Processing to extract key trends and to classify messages based on those classifications.
+
+## 9.6 Dataset for the case study
+
+Simulated tweets about smoking and vaping, hand-crafted to resemble plausible content. Subsequent data is retrieved from Twitter using the Twitter developer API.
+
+## 9.7 Skills to be taught
+
+### 9.7.1 Knowledge representation
+
+- Manipulation of JSON Tweet data structures
+- Use of an object class for managing tweets
+- Creation of [scikit-learn](https://scikit-learn.org/stable/) vector representation of documents
+- Dividing datasets into train and test subsets.
+
+### 9.7.2 Computation
+
+- Retrieval of Tweets via Twitter API
+- Descriptive summaries of Tweet attribute distributions
+- Annotation of tweets with free-text codes
+- NLP Parsing with [spaCy](https://spacy.io/)
+- Basic SVM Classification with [scikit-learn](https://scikit-learn.org/stable/) 
+
+
+### 9.7.3 Visual Analysis
+
+- Graphs from [matplotlib(https://matplotlib.org/)
+
+### 9.7.4 Statistical Analyses
+
+- Basic descriptive statistics
+- Calculation of precision and recall
+
+### 9.7.5 Reproducibility
+
+- Serialization and reuse of tweets in JSON format.
+- Jupyter notebooks documenting processing steps.
+
+
+## 9.8 Problem solving skills
+
+- Exploring distributions of key values in a dataset
+- Using REST APIs to retrieve data from web servers
+- Qualitative data annotation
+- NLP Parsing 
+- Preparation of data for machine learning
+- Evaluation of classifier
+
+## 9.9 Reflection
+
+- What are some of the challenges associated with using Twitter data?
+- Why is NLP on Twitter data different from NLP on other data sets, such as more familiar English prose or clinical documentation? 
+- Which parts of the NLP work well, and which don't? How might the less well-performing components be improved?
+- How large of an annotated dataset might be needed to build a basic classifier?
+- What additional tools and code infrastructure would be needed to broaden the processes used in this modle to other datasets?
+
 
 # Final Notes.
 
