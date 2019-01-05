@@ -1,3 +1,4 @@
+
 # Social Media Data Science
 
 An exploration of the use of APIs, natural language, and text
@@ -8,6 +9,10 @@ Designed as a self-study, this module will take you through the process of retri
 Content is provided in the form of [Jupyter notebooks](http://www.jupyter.org).  If you need an introduction to Jupyter, you can see the [official documents](https://jupyter-notebook.readthedocs.io/en/latest/) or this [Medium article](https://medium.com/analytics-vidhya/comprehensive-beginners-guide-to-jupyter-notebooks-for-data-science-machine-learning-3289f746856e). 
 
 You can run these notebooks on a jupyterhub server - potentially one provided by your course - or on your own computer, appropriately configured with Python and other libraries. See [Part 0](SocialMedia%20%-%20Part%0.ibynp) for information on Python modules that you will need.
+
+# Funding
+
+Data science modules developed by the University of Pittsburgh Biomedical Informatics Training Program with the support of the National Library of Medicine data science supplement to the University of Pittsburgh (Grant # T15LM007059-30S1). 
 
 # Using the module
 
