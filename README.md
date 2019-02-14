@@ -178,7 +178,7 @@ When you are done with all of the exercises, you will proceed as follows:
 5. Click "Save Changes".
 
 
-#Description
+# Description
 
 ## 1.1 Learning Outcomes
 
