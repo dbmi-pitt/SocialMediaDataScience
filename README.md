@@ -178,9 +178,9 @@ When you are done with all of the exercises, you will proceed as follows:
 5. Click "Save Changes".
 
 
-# 9. Description
+#Description
 
-## 9.1 Learning Outcomes
+## 1.1 Learning Outcomes
 
 Upon completion of this module, students will be able to:
 
@@ -198,36 +198,36 @@ Upon completion of this module, students will be able to:
 * Verify the distribution of classes into test and train sets.
 * Train and evaluate an SVM-based classifier.
 
-## 9.2 Licensing/Restrictions/Access
+## 1.2 Licensing/Restrictions/Access
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/").
 
-## 9.3 Target Student Audience
+##1.3 Target Student Audience
 
 Upper undergraduate or first-year graduate students.
 
-## 9.4 Prerequisite Skills and Knowledge Required
+## 1.4 Prerequisite Skills and Knowledge Required
 
 Students should have some familiarity with Python programming, including at least basic exposure to object-oriented programming.
 
-## 9.5 Domain Problem
+## 1.5 Domain Problem
 
 Social media has become a useful source of information about trends in perceptions and attitudes towards various health questions. This module challenges students to learn how to retrieve social media data and to use Natural Language Processing to extract key trends and to classify messages based on those classifications.
 
-## 9.6 Dataset for the case study
+## 1.6 Dataset for the case study
 
 Simulated tweets about smoking and vaping, hand-crafted to resemble plausible content. Subsequent data is retrieved from Twitter using the Twitter developer API.
 
-## 9.7 Skills to be taught
+## 1.7 Skills to be taught
 
-### 9.7.1 Knowledge representation
+### 1.7.1 Knowledge representation
 
 - Manipulation of JSON Tweet data structures
 - Use of an object class for managing tweets
 - Creation of [scikit-learn](https://scikit-learn.org/stable/) vector representation of documents
 - Dividing datasets into train and test subsets.
 
-### 9.7.2 Computation
+### 1.7.2 Computation
 
 - Retrieval of Tweets via Twitter API
 - Descriptive summaries of Tweet attribute distributions
@@ -236,22 +236,22 @@ Simulated tweets about smoking and vaping, hand-crafted to resemble plausible co
 - Basic SVM Classification with [scikit-learn](https://scikit-learn.org/stable/) 
 
 
-### 9.7.3 Visual Analysis
+### 1.7.3 Visual Analysis
 
 - Graphs from [matplotlib(https://matplotlib.org/)
 
-### 9.7.4 Statistical Analyses
+### 1.7.4 Statistical Analyses
 
 - Basic descriptive statistics
 - Calculation of precision and recall
 
-### 9.7.5 Reproducibility
+### 1.7.5 Reproducibility
 
 - Serialization and reuse of tweets in JSON format.
 - Jupyter notebooks documenting processing steps.
 
 
-## 9.8 Problem solving skills
+## 1.8 Problem solving skills
 
 - Exploring distributions of key values in a dataset
 - Using REST APIs to retrieve data from web servers
@@ -260,7 +260,7 @@ Simulated tweets about smoking and vaping, hand-crafted to resemble plausible co
 - Preparation of data for machine learning
 - Evaluation of classifier
 
-## 9.9 Reflection
+## 1.9 Reflection
 
 - What are some of the challenges associated with using Twitter data?
 - Why is NLP on Twitter data different from NLP on other data sets, such as more familiar English prose or clinical documentation? 
