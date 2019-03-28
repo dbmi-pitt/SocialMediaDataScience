@@ -1,3 +1,4 @@
+
 # Social Media Data Science
 
 An exploration of the use of APIs, natural language, and text
@@ -13,7 +14,7 @@ You can run these notebooks on a jupyterhub server - potentially one provided by
 
 Data science modules developed by the University of Pittsburgh Biomedical Informatics Training Program with the support of the National Library of Medicine data science supplement to the University of Pittsburgh (Grant # T15LM007059-30S1). 
 
-
+=======
 # Using the module
 
 The following steps describe how to use these modules in a Jupyter environment.
