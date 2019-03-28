@@ -243,7 +243,7 @@ Simulated tweets about smoking and vaping, hand-crafted to resemble plausible co
 
 ### 1.7.3 Visual Analysis
 
-- Graphs from [matplotlib(https://matplotlib.org/)
+- Graphs from [matplotlib](https://matplotlib.org/)
 
 ### 1.7.4 Statistical Analyses
 
