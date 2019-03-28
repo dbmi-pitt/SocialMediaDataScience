@@ -9,6 +9,11 @@ Content is provided in the form of [Jupyter notebooks](http://www.jupyter.org). 
 
 You can run these notebooks on a jupyterhub server - potentially one provided by your course - or on your own computer, appropriately configured with Python and other libraries. See [Part 0](SocialMedia%20%-%20Part%0.ibynp) for information on Python modules that you will need.
 
+# Funding
+
+Data science modules developed by the University of Pittsburgh Biomedical Informatics Training Program with the support of the National Library of Medicine data science supplement to the University of Pittsburgh (Grant # T15LM007059-30S1). 
+
+
 # Using the module
 
 The following steps describe how to use these modules in a Jupyter environment.
@@ -202,7 +207,7 @@ Upon completion of this module, students will be able to:
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/").
 
-##1.3 Target Student Audience
+## 1.3 Target Student Audience
 
 Upper undergraduate or first-year graduate students.
 
