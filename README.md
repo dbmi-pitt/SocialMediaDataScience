@@ -1,5 +1,5 @@
 
-![Zenodo DOI Logo](https://zenodo.org/badge/147564959.svg) 
+[![DOI](https://zenodo.org/badge/147564959.svg)](https://zenodo.org/badge/latestdoi/147564959)
 
 # Social Media Data Science
 
