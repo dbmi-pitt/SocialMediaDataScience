@@ -1,4 +1,6 @@
 
+https://zenodo.org/badge/DOI/10.5281/zenodo.2877466.svg
+
 # Social Media Data Science
 
 An exploration of the use of APIs, natural language, and text
