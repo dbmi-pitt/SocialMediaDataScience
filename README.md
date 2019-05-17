@@ -283,4 +283,4 @@ Simulated tweets about smoking and vaping, hand-crafted to resemble plausible co
 
 # Final Notes.
 
-These insturctions are, we think, accurate at the time of writing. Please submit issues with any difficulties or inaccuracies. 
+These instructions are, we think, accurate at the time of writing. Please submit issues with any difficulties or inaccuracies. 
