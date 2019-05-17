@@ -17,6 +17,7 @@ Data science modules developed by the University of Pittsburgh Biomedical Inform
 # License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
 ---
 # Using the module
 
