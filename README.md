@@ -1,5 +1,5 @@
 
-![Zenodo DOI Logo]:https://zenodo.org/badge/DOI/10.5281/zenodo.2877466.svg
+![Zenodo DOI Logo]:[https://zenodo.org/badge/DOI/10.5281/zenodo.2877466.svg]
 
 # Social Media Data Science
 
